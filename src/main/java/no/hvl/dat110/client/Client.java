@@ -1,6 +1,7 @@
 package no.hvl.dat110.client;
 
 import no.hvl.dat110.messages.*;
+
 import no.hvl.dat110.messagetransport.Connection;
 import no.hvl.dat110.messagetransport.MessagingClient;
 

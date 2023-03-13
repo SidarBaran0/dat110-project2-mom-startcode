@@ -2,6 +2,7 @@ package no.hvl.dat110.messages;
 
 import com.google.gson.*;
 
+
 import no.hvl.dat110.common.Logger;
 import no.hvl.dat110.messages.*;
 import no.hvl.dat110.messagetransport.Connection;
